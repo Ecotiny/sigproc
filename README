@@ -1,10 +1,15 @@
 About
 ==============
-Hello. This is the readme for Michael Keith's release of Duncan Lorimer's
-SIGPROC.
+Hello. This is the readme for Linus/Tim Molteno's release of Michael Keith's
+release of Duncan Lorimer's SIGPROC, this time with Docker!
 
 SIGPROC is a pulsar search processing software: See the documentation at
 http://sigproc.sf.net/
+
+DOCKER
+=============
+All that should be necessary is running the docker-compose file.
+
 
 Compilation
 ==============
